@@ -1,0 +1,20 @@
+@media screen and (max-width: 550px) {
+    .weather{width:80%;
+
+    }
+    .name{font-size: 9vw;
+        left: 17vw;
+        top: 40vh;
+    }
+    #input,#button{font-size:4vw;}
+    .inputHolder{
+        margin: 8vw;
+    }
+    #extras{
+        font-size: 12px;
+    }
+    #icon{
+    width:110px;
+    box-shadow: 0px 0.5px #666dac;
+    }
+  }

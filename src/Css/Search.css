@@ -1,0 +1,37 @@
+
+.inputHolder{
+    margin:3vw;
+  }
+  
+  #input{
+      background: rgba( 255, 255, 255, 0.45 );
+      box-shadow: 0 8px 32px 0 rgb(66 130 155 / 84%);
+      backdrop-filter: blur( 4.5px );
+      -webkit-backdrop-filter: blur( 5.5px );
+      border-radius:5px;
+      outline: none;
+      border:none;
+      padding: 10px;
+      color:#fff;
+      margin-right:10px;
+      font-size:18px;
+      font-weight: 100;
+  }
+  #input::placeholder{
+    color: #fff;
+  }
+  #button{
+    background: rgba( 255, 255, 255, 0.45 );
+      box-shadow: 0 8px 32px 0 rgb(66 130 155 / 84%);
+      backdrop-filter: blur( 5.5px );
+      -webkit-backdrop-filter: blur( 5.5px );
+      border-radius:5px;
+    color:#fff;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    padding:10px;
+    
+    font-weight: 200;
+  }
+  

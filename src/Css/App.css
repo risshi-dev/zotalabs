@@ -1,0 +1,15 @@
+.App{
+  text-align: center;
+  position: relative;
+}
+
+.name{
+  position: absolute;
+  color: #fff;
+  font-weight: 900;
+  font-size: 7vw;
+  top:38vh;
+  left:24vw;
+  z-index:-100;
+
+}
