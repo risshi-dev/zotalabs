@@ -15,7 +15,7 @@ function Search() {
 
               var code = event.keyCode||event.which
                     if(code===13||event.type==="click") 
-                           fetch(`https:api.openweathermap.org/data/2.5/weather?q=${city}&appid=332bee308a0911eb0b8806ee55b08a3d&units=metric`)
+                           fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=332bee308a0911eb0b8806ee55b08a3d&units=metric`)
                           .then(data => data.json())
                           .then(data => setReport(data))
                           .then(()=> setLoad(true), setCity(""))
