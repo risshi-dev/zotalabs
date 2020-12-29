@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zotalabs/static/css/main.4de9a850.chunk.css",
-    "main.js": "/zotalabs/static/js/main.a5d5e7f3.chunk.js",
-    "main.js.map": "/zotalabs/static/js/main.a5d5e7f3.chunk.js.map",
+    "main.js": "/zotalabs/static/js/main.dcd49b39.chunk.js",
+    "main.js.map": "/zotalabs/static/js/main.dcd49b39.chunk.js.map",
     "runtime-main.js": "/zotalabs/static/js/runtime-main.12115777.js",
     "runtime-main.js.map": "/zotalabs/static/js/runtime-main.12115777.js.map",
     "static/js/2.530666fc.chunk.js": "/zotalabs/static/js/2.530666fc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12115777.js",
     "static/js/2.530666fc.chunk.js",
     "static/css/main.4de9a850.chunk.css",
-    "static/js/main.a5d5e7f3.chunk.js"
+    "static/js/main.dcd49b39.chunk.js"
   ]
 }
